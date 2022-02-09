@@ -8,7 +8,7 @@ See https://docs.google.com/document/d/1bkYNXCsekqo04uWKCP5x0GNJABC5Da5cUbWB5dX0
 
 # How to install or update the firmware of AMBER B1 Robotics Arm by a bootable usb drive? 
 
-For the Early Bird or some special backer got bootable usb drive from AMBER, please install or update the latest firmware for AMBER B1 Master Box.
+For the Early Bird or some special backer who got a bootable usb drive from AMBER, please install or update the latest firmware for AMBER B1 Master Box.
 
 https://docs.google.com/document/d/1MU08JQNKIl4DXH71kOS0MwCSJQCvQ1__gY2SRo5ZNiA
 
