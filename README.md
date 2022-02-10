@@ -1,4 +1,4 @@
-AMBER B1 is an easy-to-use， modular & lightweight robotics arm for developing commercial robotic applications, prototyping designs, and benchmarking algorithms.
+AMBER B1 is an easy-to-use，modular & lightweight robotics arm for developing commercial robotic applications, prototyping designs, and benchmarking algorithms.
 
 # Important: AMBER B1 Zero Position (Or Initial Position)
 
