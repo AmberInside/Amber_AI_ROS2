@@ -6,7 +6,7 @@ See https://raw.githubusercontent.com/AmberInside/Amber_AI_ROS2/main/Docs/initia
 
 ## AMBER B1 hardware quickstart
 
-See https://docs.google.com/document/d/1bkYNXCsekqo04uWKCP5x0GNJABC5Da5cUbWB5dX0Dkg/edit?usp=sharing
+See https://docs.google.com/document/d/1bkYNXCsekqo04uWKCP5x0GNJABC5Da5cUbWB5dX0Dkg
 
 # How to install or update the firmware of AMBER B1 Robotics Arm by a bootable usb drive? 
 
