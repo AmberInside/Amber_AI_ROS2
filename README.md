@@ -14,9 +14,9 @@ For the Early Bird or some special backer who got a bootable usb drive from AMBE
 
 https://docs.google.com/document/d/1MU08JQNKIl4DXH71kOS0MwCSJQCvQ1__gY2SRo5ZNiA
 
-## AMBER B1 Web based Studio, easy to control and program B1 anywhere
+## AMBER Robotic Studio, easy to control and program B1 anywhere
 
-See https://github.com/AmberInside/Amber_AI_ROS2/wiki/AMBER-B1-Wiki-&-How#amber-b1-studio-software-quickstart
+See https://github.com/AmberInside/Amber_AI_ROS2/wiki/Launch-AMBER-Robotics-Studio,-the-web-based-tool-for-AMBER-B1
 
 ## Help & WIKI about AMBER B1
 Go https://github.com/AmberInside/Amber_AI_ROS2/wiki
