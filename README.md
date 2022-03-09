@@ -4,6 +4,8 @@ AMBER B1 is an easy-to-use，modular & lightweight robotics arm for developing c
 
 See https://raw.githubusercontent.com/AmberInside/Amber_AI_ROS2/main/Docs/initial_position.png
 
+# Attention: Once you want to power off B1, PUT B1 BACK to Zero Position or a Safe Posture!!
+
 ## AMBER B1 hardware quickstart
 
 See https://docs.google.com/document/d/1bkYNXCsekqo04uWKCP5x0GNJABC5Da5cUbWB5dX0Dkg
