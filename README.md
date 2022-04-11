@@ -22,7 +22,7 @@ See https://github.com/AmberInside/Amber_AI_ROS2/wiki/Launch-AMBER-Robotics-Stud
 
 ## Protocol for AMBER B1 SDK & APIs
 
-Go [https://github.com/AmberInside/Amber_AI_ROS2/wiki/Protocol--for-AMBER-B1--SDK-&-APIs](https://github.com/AmberInside/Amber_AI_ROS2/wiki/Protocol--for-AMBER-B1--SDK-&-APIs)
+Go [https://github.com/AmberInside/Amber_AI_ROS2/wiki/Protocol--for-AMBER-B1--SDK-&-APIs](https://github.com/AmberInside/Amber_AI_ROS2/wiki/Protocol--for-AMBER-B1--SDK-&-APIs---Updated-in-Apr.11-2022)
 
 ## Help & WIKI about AMBER B1
 Go https://github.com/AmberInside/Amber_AI_ROS2/wiki
